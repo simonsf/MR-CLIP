@@ -2,7 +2,7 @@
 
 Codes for the paper of "Evidence-grounded brain MRI reporting via expert-foundation models cooperation".
 
-This module implements one of the implementations of MR-CLIP. It uses MR-ViT as the image encoder, which is a multi-sequence image input framework based on CT-ViT, and uses a pre-trained medical language model as the text encoder.
+This module uses MR-ViT as the image encoder, which is a multi-sequence image input framework based on CT-ViT, and uses a pre-trained medical language model as the text encoder.
 
 ## Installation
 
